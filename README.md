@@ -1,7 +1,7 @@
 ## 👨‍💻 Author
 
-**Param Jaiswal**  
-CSE Data Science Branch  
+**Shashank Khot**  
+CSE Branch  
 CMR Institute of Technology
 --- 
 # 🐍 Python Mini Projects Collection
